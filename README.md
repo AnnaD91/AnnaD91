@@ -18,3 +18,9 @@
 I want to use my developer knowledge to support companies that care for animals and the environment. 
 
 ![image of cows](https://media.4-paws.org/f/9/c/5/f9c5d83f37a28afe635546f879b304b4c3e51f38/VIER%20PFOTEN_2016-11-14_059-4994x3456.jpg)
+
+### Last words ###
+
+Thank you for visiting my profile and I hope we stay connected! 
+
+Anna 💚
