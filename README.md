@@ -1,26 +1,26 @@
 # Hi there, I'm Anna! 👋 #
-## Welcome to my profile 🤗 ##
+## Welcome to my profile ##
 ### About me ###
 
 - Name: Anna
-- Age: 31
+- Age: 32
 - Location: Munich 
-- Professional background: Online marketing and fundraising
+- Professional background: Online marketing and fundraising 
 
-### My hobbies ###
+### My interests ###
 
 1. 💃 Salsa/Bachata Dancing
 2. 🌍 Travelling 
-3. 🐮 Animal Rights Activism
+3. 🐮🐷🐔 Animal Rights Activism
    
 ### My goal ###
 
-I want to use my developer knowledge to support companies that care for animals and the environment. 
+I would like to use my web development skills to make the world a better place for animals. My biggest goal and dream is to work for a company that supports animal welfare and environmental protection and that allows me to combine my passion for programming and animal rights work. 
 
-![image of cows](https://media.4-paws.org/f/9/c/5/f9c5d83f37a28afe635546f879b304b4c3e51f38/VIER%20PFOTEN_2016-11-14_059-4994x3456.jpg)
+![image of cow, pig and chicken](https://www.aspca.org/sites/default/files/091922-farm-animal-awareness-week.jpg)
 
 ### Last words ###
 
 Thank you for visiting my profile and I hope we stay connected! 
 
-Anna 💚
+Anna 🌱
