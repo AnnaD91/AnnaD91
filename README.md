@@ -1,11 +1,11 @@
-# Hi there, I'm Anna! 👋 #
+# Hi there, I'm Anna! 🌱 #
 ## Welcome to my profile ##
 ### About me ###
 
 - Name: Anna
 - Age: 32
 - Location: Munich 
-- Professional background: Online marketing and fundraising 
+- Professional background: Online marketing & fundraising (last employer: PETA Deutschland e.V.)
 
 ### My interests ###
 
@@ -23,4 +23,4 @@ I would like to use my web development skills to make the world a better place f
 
 Thank you for visiting my profile and I hope we stay connected! 
 
-Anna 🌱
+Anna 
