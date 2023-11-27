@@ -15,7 +15,9 @@
    
 ### My goal ###
 
-I would like to use my web development skills to make the world a better place for animals. My biggest goal and dream is to work for a company that supports animal welfare and environmental protection and that allows me to combine my passion for programming and animal rights work. 
+As a junior programmer, I am fascinated by the world of coding and the captivating combination of creativity and technology that unlocks endless imaginative possibilities. 
+
+Above all, my motivation lies in 'Compassionate Coding’. Beyond the lines of code, I'm deeply committed to using my coding skills to unite innovation and compassion in the pursuit of a better world.
 
 ![image of cow, pig and chicken](https://www.aspca.org/sites/default/files/091922-farm-animal-awareness-week.jpg)
 
@@ -23,4 +25,5 @@ I would like to use my web development skills to make the world a better place f
 
 Thank you for visiting my profile and I hope we stay connected! 
 
+All the best, 
 Anna 
